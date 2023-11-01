@@ -1,5 +1,5 @@
 # Anibis AutoScout24 Deal Comparison Tool (Anibis.ch & AutoScout24.ch Similar Listing Price Difference Percentage Comparison Checker & Automated Alert Based Software)
-A python-based software to monitor the anibis.ch website to compare the listing price with autoscout24.ch similar listings to find price difference percentage
+A python-based software to monitor the <a href="https://anibis.ch">anibis.ch</a> website to compare the listing price with <a href="https://autoscout24.ch">autoscout24.ch</a> similar listings to find price difference percentage
 
 # Purpose of this project
 This project intends to find similar listing prices found on the AutoScout24.ch website in relation to Anibis.ch website listing data. It picks a newly arrived listing from anibis website and compares its information with 3 similar listings from AutoScout24 website and finds an average price and compares the difference between the two platforms. As there are different varieties of models and these two are multiple websites, it may not always be accurate. It uses openai to fine-tune the model and make found on the anibis website. So, you'll need an API key. It's able to send an alert on telegram too. For that, you have to integrate everything correctly.
