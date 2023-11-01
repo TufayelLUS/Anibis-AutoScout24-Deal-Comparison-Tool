@@ -1,4 +1,4 @@
-# Anibis AutoScout24 Deal Comparison Tool (Anibis.ch & AutoScout24.ch Price Difference Comparison Software)
+# Anibis AutoScout24 Deal Comparison Tool (Anibis.ch & AutoScout24.ch Similar Listing Price Difference Percentage Comparison Checker & Automated Alert Based Software)
 A python-based software to monitor the anibis.ch website to compare the listing price with autoscout24.ch similar listings to find price difference percentage
 
 # Purpose of this project
